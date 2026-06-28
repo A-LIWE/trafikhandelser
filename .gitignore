@@ -2,6 +2,7 @@
 backend/venv/
 backend/__pycache__/
 backend/.env
+backend/store.db
 **/__pycache__/
 *.pyc
 *.pyo
@@ -18,3 +19,4 @@ ios/DerivedData/
 # VS Code
 .vscode/
 EOF
+
