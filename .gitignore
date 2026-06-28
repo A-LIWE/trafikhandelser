@@ -1,0 +1,20 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/.env
+**/__pycache__/
+*.pyc
+*.pyo
+
+# Xcode
+ios/.DS_Store
+ios/*.xcuserstate
+ios/DerivedData/
+*.xcuserstate
+
+# Mac
+.DS_Store
+
+# VS Code
+.vscode/
+EOF

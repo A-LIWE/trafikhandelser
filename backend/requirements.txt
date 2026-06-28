@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+httpx[http2]
+xmltodict
+PyJWT
+aiosqlite
+python-dotenv
+anthropic
